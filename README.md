@@ -1,5 +1,5 @@
 # eve-online-cmd-batch-copy-character-settings
-A Batch script to copy your character settings to all your Tranquility characters
+A Batch script to copy your character settings to all your Tranquility characters.
 
 Put this file on Desktop.
 
